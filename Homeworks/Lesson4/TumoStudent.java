@@ -5,7 +5,7 @@ public class TumoStudent {
     public String firstName;
     public String lastName;
     public int age;
-    public boolean isFromArmeniaOrArtsakh;
+    public boolean isFromArmenia;
     public char language;
 
 
